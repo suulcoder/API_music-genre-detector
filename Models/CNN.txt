@@ -1,0 +1,3 @@
+Model for classical_country_metal_pop
+loss : 0.7446410059928894
+accuracy : 0.7704485654830933
